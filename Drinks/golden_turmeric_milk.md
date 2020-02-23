@@ -16,5 +16,3 @@ Optional:
 - Add all ingredients to a pot over medium heat and bring to a simmer.
 - Simmer for 10 minutes to let the flavors meld.
 - Pour into a mug.
-## Notes
-SERVING: 1cup, CALORIES: 96kcal, CARBOHYDRATES: 8g, PROTEIN: 1g, FAT: 6g, SATURATED FAT: 2g, SODIUM: 326mg, POTASSIUM: 50mg, FIBER: 1g, SUGAR: 6g, CALCIUM: 311mg, IRON: 0.5mg
