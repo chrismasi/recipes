@@ -9,8 +9,7 @@
 Boil:
 - 4q Water
 - 1c Sugar
-
-Instructions
+## Instructions
 - Add ingredients to bowl and mix with dough hook for 10-12 minutes until dough is elastic.
 - Put in oiled bowl and let rise for 2 hours.
 - Punch down dough and turn onto floured surface.
@@ -21,4 +20,5 @@ Instructions
 - Take bagels out and put on a baking sheet.
 - optional: Dip in toppings if desired.
 - Bake for 15 minutes.
-
+## Notes
+- Sub 2c flour for whole wheat flour to make whole wheat bagels.
