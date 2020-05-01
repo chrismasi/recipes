@@ -1,18 +1,23 @@
 # Slow Cooker Butter Chicken Curry
 ## Ingredients
-- 1 Diced Large Onion
-- 3 Crushed Garlic Cloves
-- 4 Boneless Chicken Thighs
-- 2 Tablespoons Tomato Paste
-- 1 teaspoon Garam Masala
-- 1/2 teaspoon Ground Coriander
-- Chilli Pepper Powder (to personal taste)
-- Chicken Stock / Water (just enough to cover chicken)
-- 2 Tablespoons Butter
-- 2 Tablespoons Heavy Cream
-- Salt (to personal taste)
+- 1 cup basmati rice
+- 1/2 cup chicken stock
+- 1 (6-ounce) can tomato paste
+- 2 teaspoons yellow curry powder
+- 1 teaspoon garam masala
+- 1 teaspoon ground turmeric
+- 1 teaspoon kosher salt
+- 1/2 teaspoon freshly ground black pepper
+- 2 pounds boneless, skinless chicken thighs, cut into 1-inch chunks
+- 1/2 sweet onion, diced
+- 3 cloves garlic, minced
+- 1 tablespoon freshly grated ginger
+- 1/2 cup heavy cream
+- 2 tablespoons freshly squeezed lime juice
+- 1 1/2 teaspoons light brown sugar
 ## Directions
-- Heat a pan on a medium-high heat then fry the diced onions in some oil until they start to turn golden brown.
-- Once slightly browned, add the crushed garlic, the Garam Masala and the Ground Coriander, and continue to fry and stir for one minute. Transfer to a Crockpot once done.
-- Wash the chicken thighs and place on top of the onions in the crock pot. Add some Chicken Stock (or Water) until it's just covering the chicken.
-- Add in the tomato paste and butter. The butter can be put in cold, just make sure to give it a stir once melted within the first hour.
+- In a large saucepan of 2 cups water, cook rice according to package instructions; set aside.
+- In a small bowl, whisk together chicken stock, tomato paste, curry powder, garam masala, turmeric, salt and pepper.
+- Place chicken, onion, garlic and ginger into a 4-qt slow cooker. Stir in chicken stock mixture.
+- Cover and cook on low heat for 4 hours. Stir in heavy cream, lime juice and brown sugar; season with salt and pepper, to taste.
+- Serve immediately with rice.
