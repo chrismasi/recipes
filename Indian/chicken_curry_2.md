@@ -26,3 +26,5 @@
 - Remove bay leaf, and stir in lemon juice and cayenne pepper.
 - Simmer 5 more minutes.
 
+## Notes
+- I usually add 2 large potatoes cut into 1"x1"x0.5" pieces and about 8oz of baby carrots cut in half. I add those and cook them for maybe 8 minutes before adding the chicken. This makes the recipe less saucy, but you could easily double everything except the chicken to fix that.
