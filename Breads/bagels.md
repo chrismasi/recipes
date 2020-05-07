@@ -1,12 +1,13 @@
 # Bagels
 ## Ingredients
+### Dough
 - 1.25c Water
 - 4.5c Flour
 - 3T Sugar
 - 1t Salt
 - 2T Vegetable Oil
 - 1T Instant Yeast
-Boil:
+### Boil
 - 4q Water
 - 1c Sugar
 ## Instructions
