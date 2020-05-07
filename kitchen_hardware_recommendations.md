@@ -2,7 +2,7 @@
 - [Steel Tongs](https://www.amazon.com/dp/B00CF1CC3U/)
 - [Instant Thermometer](https://www.amazon.com/dp/B000LDE0QQ/)
 - [Mandoline](https://www.amazon.com/dp/B0000VZ57C/)
-- Silicone Spatulas: [Regular](https://www.amazon.com/Vollrath-52010-High-Temp-Silicone-Spatulas/)[Spoon Style](https://www.amazon.com/Vollrath-58110-High-Temp-SoftSpoons-Silicone/dp/B073PD728F/)
+- Silicone Spatulas: [Regular](https://www.amazon.com/Vollrath-52010-High-Temp-Silicone-Spatulas/), [Spoon Style](https://www.amazon.com/Vollrath-58110-High-Temp-SoftSpoons-Silicone/dp/B073PD728F/)
 - [Chef Knife](https://www.amazon.com/Victorinox-Fibrox-Chefs-Knife-8-Inch/dp/B000638D32)
 - [Knife Steel](https://www.amazon.com/WINCO-Premium-Sharpening-Steel-14-Inch/dp/B00AWRN81O/)
 - [Whetstone](https://www.amazon.com/Whetstone-Cutlery-20-10960-Sharpening-Stone-Sharpener/dp/B0055B2RGO/)
