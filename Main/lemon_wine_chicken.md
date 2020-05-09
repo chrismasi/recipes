@@ -1,4 +1,4 @@
-# Lemon Wine Chicken and Broccoli
+# Chicken in Lemon Garlic White Wine Sauce
 ## Ingredients
 ### Chicken
 - 2 Chicken Breasts Cut into bite sized pieces
