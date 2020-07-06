@@ -16,6 +16,7 @@
 ## Directions
 - Combine cornstarch and pepper in resealable food storage bag. Add chicken. Shake to coat with cornstarch mixture.
 - Heat oil in skillet over medium-high heat. Brown chicken about 2 minutes on each side. Place chicken in slow cooker.
-- Combine soy sauce, vinegar, ketchup, sweet chili sauce sugar, garlic, ginger, pepper flakes, and cashews in small bowl; pour over chicken. (I like my cashews to be softer so I add them during the cooking process, if you want more of a crunch, add them right before serving)
+- Combine soy sauce, vinegar, ketchup, sweet chili sauce sugar, garlic, ginger, and pepper flakes in small bowl; pour over chicken.
 - Cook on LOW for 3 to 4 hours.
+- Add cashews, then cook for another 15-30 minutes (or longer, depending on how soft you like your cashews).
 - Serve over rice. Makes 4-6 servings.
