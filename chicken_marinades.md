@@ -37,9 +37,18 @@ For 2 lb. chicken breast.
 - ½t Dried Ginger
 - Pinch Salt
 - Pinch Pepper
-# BBQ
+## BBQ
 - ½c BBQ Sauce
 - ¼c Maple Syrup
 - ¼c Apple Cider Vinegar
 - ½T Chili Powder
-
+## Quasi QDOBA-ish
+- 2T Olive Oil
+- 2T Apple Cider Vinegar
+- 2T Tomato Paste
+- 1T Chili Powder
+- 1.5t Cumin Powder
+- 1.5t Garlic Powder
+- 1t Chipotle Powder
+- 1t Oregano
+- 0.5t Salt
