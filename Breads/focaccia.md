@@ -1,15 +1,14 @@
 # Focaccia Bread
 ## Ingredients
-- 1/2 cup warm water
 - 1 packet active yeast
-- Sit 5 min to proof
+- Proof yeast for 5 minutes with 1/2 cup warm water.
 - 2.5 cups room temp water
-- 6 cups flour (24ounces)
-- 2 tablespoons salt
+- 6 cups flour
+- 2 tablespoons salt (See note)
 - 1/2 cup olive oil plus 1/4 cup for topping plus more for hands
 ## Directions
-- Heat oven to 450 with rack at bottom and top.
-- Mix flour into water in stand mixer for 8 minutes.
+- Heat oven to 450F with rack at bottom and top.
+- Pour yeast mixture into water then mix in flour in stand mixer for 8 minutes.
 - Cover with wet towel while still in mixer let stand 10 minutes.
 - Remove towel and mix for 10 to 15 minutes.
 - Add 1/4 cup olive oil to a large mixing bowl and swirl to coat. Put in dough, coat with olive oil.
@@ -24,3 +23,4 @@
 - Put on top rack for 5 minutes to crisp top.
 ## Notes
 - You can use other toppings like tomatoes, olives, parmesan or whatever you want.
+- I think it was a bit too salty when I used 2T of salt. Maybe use less.
